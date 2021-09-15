@@ -7,13 +7,13 @@ body {
 }
 
 div {
-    font-size: 24px;
-    width: 300px;
-    height: 300px;
+    font-size: 30px;
+    width: 500px;
+    height: 180px;
     border-radius: 35px;
-    border: green;
-    background-color: grey;
-    color: indigo;
+    border: 10px solid green;
+    background-color: blue;
+    color: red;
     display: flex;
     justify-content: center;
     align-items: center;
